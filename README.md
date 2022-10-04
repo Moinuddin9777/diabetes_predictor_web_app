@@ -9,6 +9,5 @@
   
   
   ---
-
-collaborater-1 rehana    
+   
 Template credits to Anuj Vyas
