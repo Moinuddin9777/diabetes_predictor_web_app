@@ -3,6 +3,7 @@ import numpy as np
 import pandas as pd
 import pickle
 
+# find the dataset in the repo store it in your project folder
 # Loading the dataset
 df = pd.read_csv('kaggle_diabetes.csv')
 
