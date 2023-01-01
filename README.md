@@ -15,9 +15,9 @@
   - here we put a condition case that if predition is this then render this result.
   - The HTML and CSS files are binded in the backend itself
 #### Dependencies
-  - ML model >>>   Scikit Learn  
-  - Backend   >>> Flask(Python)  
-  - Frontend  >>>  HTML & CSS  
+  - ML model ===>>>   Scikit Learn  
+  - Backend   ===>>> Flask(Python)  
+  - Frontend  ===>>>  HTML & CSS  
   
   
   ---
