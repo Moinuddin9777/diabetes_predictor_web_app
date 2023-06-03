@@ -23,4 +23,4 @@
   ---
 #### Contributors please read contribution guide before submitting a PR   
    
-*Template credits to Anuj Vyas who also deplyed this project on heroku check out his profile for deployment*
+*Shoutout and credits to Anuj Vyas who also deployed this project on heroku, do check out his profile*
